@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jordanmambueni.github.io/help-aidefinancier/sitemap.xml
